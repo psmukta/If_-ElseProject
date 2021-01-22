@@ -20,6 +20,14 @@ public class IfAndElseClass {
 					System.out.println("Invalid number");
 				}
 		*/
+				int a=9;
+				int b=10;
+				if(a%3==0) {
+					System.out.println("-------Taco");
+				}
+				else if(a%5==0) {
+					System.out.println("--------Bell");
+				}
 				
 				switch(x) {
 				case "Sunday":

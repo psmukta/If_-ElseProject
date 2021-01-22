@@ -38,6 +38,25 @@ public class PracticeIfAndElse {
 			opinion="not equal";
 		}
 		System.out.println(opinion);
+	
+	/*String y ="";
+	   if(y.equalsIgnoreCase("abc")) {
+		System.out.println("null");
 	}
+	   else {
+		System.out.println("not null");
+	   }*/
+		
+		String ab="1";
+		System.out.println(ab.isEmpty());
+		System.out.println(ab);
+		if(ab=="0") {
+			System.out.println("null");	
+		}
+		else {
+			System.out.println(ab);
+		}
+}
+
 
 }
